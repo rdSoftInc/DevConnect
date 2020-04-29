@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb://rolstan:0rejdVkCGiwELFzb@devconnect-shard-00-00-gaqoy.mongodb.net:27017,devconnect-shard-00-01-gaqoy.mongodb.net:27017,devconnect-shard-00-02-gaqoy.mongodb.net:27017/test?ssl=true&replicaSet=DevConnect-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret": "asdasd2424356ds@&#$*@",
+    "githubClientId": "1bf720f4c46ea9eed38d",
+    "githubClientSecret": "c95cf1fa5c6339cc7e12a1f626e5eab3802f8420"
+}
